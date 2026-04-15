@@ -1,0 +1,5 @@
+H:\baitapthuchanh\thuchanhcuoiky\DTO\bin\Release\DTO.dll
+H:\baitapthuchanh\thuchanhcuoiky\DTO\bin\Release\DTO.pdb
+H:\baitapthuchanh\thuchanhcuoiky\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+H:\baitapthuchanh\thuchanhcuoiky\DTO\obj\Release\DTO.dll
+H:\baitapthuchanh\thuchanhcuoiky\DTO\obj\Release\DTO.pdb

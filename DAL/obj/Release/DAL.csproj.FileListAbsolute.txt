@@ -1,0 +1,9 @@
+H:\baitapthuchanh\thuchanhcuoiky\DAL\bin\Release\DAL.dll
+H:\baitapthuchanh\thuchanhcuoiky\DAL\bin\Release\DAL.pdb
+H:\baitapthuchanh\thuchanhcuoiky\DAL\bin\Release\DTO.dll
+H:\baitapthuchanh\thuchanhcuoiky\DAL\bin\Release\DTO.pdb
+H:\baitapthuchanh\thuchanhcuoiky\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+H:\baitapthuchanh\thuchanhcuoiky\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+H:\baitapthuchanh\thuchanhcuoiky\DAL\obj\Release\DAL.csproj.CopyComplete
+H:\baitapthuchanh\thuchanhcuoiky\DAL\obj\Release\DAL.dll
+H:\baitapthuchanh\thuchanhcuoiky\DAL\obj\Release\DAL.pdb

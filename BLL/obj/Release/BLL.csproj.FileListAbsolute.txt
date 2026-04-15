@@ -1,0 +1,11 @@
+H:\baitapthuchanh\thuchanhcuoiky\BLL\bin\Release\BLL.dll
+H:\baitapthuchanh\thuchanhcuoiky\BLL\bin\Release\BLL.pdb
+H:\baitapthuchanh\thuchanhcuoiky\BLL\bin\Release\DAL.dll
+H:\baitapthuchanh\thuchanhcuoiky\BLL\bin\Release\DTO.dll
+H:\baitapthuchanh\thuchanhcuoiky\BLL\bin\Release\DAL.pdb
+H:\baitapthuchanh\thuchanhcuoiky\BLL\bin\Release\DTO.pdb
+H:\baitapthuchanh\thuchanhcuoiky\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+H:\baitapthuchanh\thuchanhcuoiky\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+H:\baitapthuchanh\thuchanhcuoiky\BLL\obj\Release\BLL.csproj.CopyComplete
+H:\baitapthuchanh\thuchanhcuoiky\BLL\obj\Release\BLL.dll
+H:\baitapthuchanh\thuchanhcuoiky\BLL\obj\Release\BLL.pdb
